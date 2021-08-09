@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header span,a{
+     color: white;
+     font-size: x-large;
+
+}
+footer{
+    background-color: rgb(177, 101, 248);
+}
+#s2{
+    background-image: url("b1.jpg");
+    background-size: cover;
+}
+#b1{
+    background-image: url("b2.jpg");
+    background-size: cover;
+    
+
+}
+.b0{
+    background-image: url("b4.jpg"); 
+    background-size: cover;
+}
+
+.contactinfo{
+
+    width:100%;
+    height:40vh;
+    border:2px solid black;
+    background-image: url("b4.jpg");
+    background-size: cover;
+    
+    
+    text-align: center;
+    padding: 30px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    
+
+
+}
+.abtcontact{
+    margin:auto;
+    margin-top: 20px;
+    
+    width:90%;
+    padding: 30px;
+   overflow: hidden;
+    
+    
+}
+li{
+    list-style: none;
+   
+text-shadow: -3px  3px 2px black;
+
+
+} 
